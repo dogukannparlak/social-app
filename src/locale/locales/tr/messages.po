@@ -9217,7 +9217,7 @@ msgstr ""
 
 #: src/screens/Search/modules/ExploreInterestsCard.tsx:94
 msgid "Your interests help us find what you like!"
-msgstr ""
+msgstr "lgi alanlarınız, size nelerin hitap ettiğini keşfetmemize yardımcı oluyor!"
 
 #: src/components/dialogs/MutedWords.tsx:369
 msgid "Your muted words"
@@ -9261,4 +9261,4 @@ msgstr "Raporunuz Bluesky Moderasyon Hizmetine gönderilecektir"
 
 #: src/screens/Settings/SettingsInterests.tsx:53
 msgid "Your selected interests help us serve you content you care about."
-msgstr ""
+msgstr "lgi alanlarınızı seçmeniz, size ilginizi çekecek içerikler sunmamıza yardımcı olur."
